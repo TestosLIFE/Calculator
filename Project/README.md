@@ -1,70 +1,70 @@
-#  Calculator Matematic - C++
+# Calculator Matematic - C++
 
-Acesta este un proiect simplu de tip consolă realizat în limbajul C++. Programul permite utilizatorului să efectueze mai multe operații matematice de bază și avansate printr-un meniu interactiv.
-
----
-
-##  Funcționalități disponibile
-
-- Adunare
-- Scădere
-- Înmulțire
-- Împărțire
-- Modulo
-- Produs scalar
-- Afișarea divizorilor unui număr
-- Operații pe matrici:
-  - Adunare de matrici
-  - Scădere de matrici
-  - Înmulțire de matrici
+Acesta este un proiect simplu de tip consola realizat in limbajul C++. Programul permite utilizatorului sa efectueze mai multe operatii matematice de baza si avansate printr-un meniu interactiv.
 
 ---
 
-##  Cum se folosește
+## Functionalitati disponibile
 
-1. Compilează fișierul `.cpp` cu un compilator C++ (ex: `g++ calculator.cpp -o calculator`)
-2. Rulează executabilul: `./calculator` (Linux/macOS) sau `calculator.exe` (Windows)
-3. Urmează instrucțiunile din consolă
-
----
-
-##  Structură
-
-- `calculator.cpp` - codul sursă principal
-- `README.md` - acest fișier explicativ
-
----
-
-##  Versiuni
-
-- ✅ Română: complet funcțională
-- ✅ English: complet funcțională
+- Adunare  
+- Scadere  
+- Inmultire  
+- Impartire  
+- Modulo  
+- Produs scalar  
+- Afisarea divizorilor unui numar  
+- Operatii pe matrici:  
+  - Adunare de matrici  
+  - Scadere de matrici  
+  - Inmultire de matrici
 
 ---
 
-#  Math Calculator - C++
+## Cum se foloseste
+
+1. Compileaza fisierul `.cpp` cu un compilator C++ (ex: `g++ calculator.cpp -o calculator`)
+2. Ruleaza executabilul: `./calculator` (Linux/macOS) sau `calculator.exe` (Windows)
+3. Urmeaza instructiunile din consola
+
+---
+
+## Structura
+
+- `calculator.cpp` – codul sursa principal  
+- `README.md` – acest fisier explicativ
+
+---
+
+## Versiuni
+
+- ✅ Romana: complet functionala  
+- ✅ English: complet functionala
+
+---
+
+# Math Calculator - C++
 
 This is a simple console-based C++ project. The program allows the user to perform various basic and advanced math operations through an interactive menu.
 
 ---
 
-##  Features
+## Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Modulo
-- Scalar product
-- Displaying the divisors of a number
-- Matrix operations:
-  - Matrix addition
-  - Matrix subtraction
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Modulo  
+- Scalar product  
+- Displaying the divisors of a number  
+- Matrix operations:  
+  - Matrix addition  
+  - Matrix subtraction  
   - Matrix multiplication
 
 ---
 
-##  How to Use
+## How to Use
 
 1. Compile the `.cpp` file using a C++ compiler (e.g., `g++ calculator.cpp -o calculator`)
 2. Run the executable: `./calculator` (Linux/macOS) or `calculator.exe` (Windows)
@@ -72,14 +72,14 @@ This is a simple console-based C++ project. The program allows the user to perfo
 
 ---
 
-##  Structure
+## Structure
 
-- `calculator.cpp` – main source code
+- `calculator.cpp` – main source code  
 - `README.md` – this explanatory file
 
 ---
 
-##  Author
+## Author
 
 Proiect realizat de Sandu Teodor-Robert.  
 Project made by Sandu Teodor-Robert.
